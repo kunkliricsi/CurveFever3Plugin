@@ -117,33 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="bottomleft" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAAcAAAAJCAIAAABxOqH0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wwAADsMBx2+oZAAAACZJREFUGFdjyC8qAaKo2ARJJQ04GhDR5LRMezdvOIKKoiFsokUlAPHCOZF5D/CI
-        AAAAAElFTkSuQmCC
-</value>
-  </data>
-  <data name="bottomright" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAIAAABVpBlvAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wwAADsMBx2+oZAAAAChJREFUGFdjkFTSgKCo2IT8ohIgoqqQvZs3BCWnZUKFIBQywhAqKgEAHUUu22QL
-        fOgAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="topleft" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAAcAAAAJCAIAAABxOqH0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wwAADsMBx2+oZAAAACVJREFUGFdjyC8qwUR4RZPTMh09fOEIKhoVmyCppAFH9BRV0gAAdXg5qcUjmwIA
-        AAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="topright" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAAYAAAAJCAIAAACe+MrKAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wwAADsMBx2+oZAAAACVJREFUGFdjyC8qQUPYhBw9fCEoOS0TKiSppAFBUbEJdBAqKgEAz44z18WTJb4A
-        AAAASUVORK5CYII=
-</value>
-  </data>
 </root>

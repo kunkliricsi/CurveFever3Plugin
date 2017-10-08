@@ -8,7 +8,6 @@ using System.Threading;
 using System.Drawing.Imaging;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
-using AForge.Imaging;
 using System.Resources;
 
 namespace PluginForm
